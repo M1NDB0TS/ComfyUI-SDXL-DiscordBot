@@ -2,6 +2,7 @@ build/
 dist/
 out/
 input/
+config.properties
 __pycache__/
 config.properties
 *.spec
